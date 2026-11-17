@@ -1,0 +1,32 @@
+[
+  {
+    "id": "COMM_A",
+    "name": "Riverside Neighborhood",
+    "source_type": "synthetic",
+    "flood_exposure_pct": 65,
+    "heat_exposure_pct": 45,
+    "cooling_access_pct": 35,
+    "accessible_shelters_pct": 40,
+    "observation_age_days": 10
+  },
+  {
+    "id": "COMM_B",
+    "name": "Dense Urban District",
+    "source_type": "synthetic",
+    "flood_exposure_pct": 25,
+    "heat_exposure_pct": 75,
+    "cooling_access_pct": 55,
+    "accessible_shelters_pct": 60,
+    "observation_age_days": 18
+  },
+  {
+    "id": "COMM_C",
+    "name": "Remote Coastal Community",
+    "source_type": "synthetic",
+    "flood_exposure_pct": null,
+    "heat_exposure_pct": 50,
+    "cooling_access_pct": 30,
+    "accessible_shelters_pct": null,
+    "observation_age_days": 45
+  }
+]
